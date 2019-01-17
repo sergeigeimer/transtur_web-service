@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "transtur_web-service", "transtur_web-service\transtur_web-service.csproj", "{35010449-9362-4794-A5F8-3B2F9F62A012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35010449-9362-4794-A5F8-3B2F9F62A012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35010449-9362-4794-A5F8-3B2F9F62A012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35010449-9362-4794-A5F8-3B2F9F62A012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35010449-9362-4794-A5F8-3B2F9F62A012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7E516B2-F7E2-4E14-B09A-104CEEFD41D2}
+	EndGlobalSection
+EndGlobal
