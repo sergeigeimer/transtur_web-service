@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\transtur_web-service\\transtur_web-service\\transtur_web-service.csproj",
+      "projectUniqueName": "E:\\WebServer\\transtur_web-service\\transtur_web-service\\transtur_web-service.csproj",
       "projectName": "transtur_web-service",
-      "projectPath": "C:\\transtur_web-service\\transtur_web-service\\transtur_web-service.csproj",
+      "projectPath": "E:\\WebServer\\transtur_web-service\\transtur_web-service\\transtur_web-service.csproj",
       "packagesPath": "C:\\Users\\Sergey\\.nuget\\packages\\",
-      "outputPath": "C:\\transtur_web-service\\transtur_web-service\\obj\\",
+      "outputPath": "E:\\WebServer\\transtur_web-service\\transtur_web-service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sergey\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,3 +9,14 @@ C:\transtur_web-service\transtur_web-service\obj\Debug\netcoreapp2.1\transtur_we
 C:\transtur_web-service\transtur_web-service\obj\Debug\netcoreapp2.1\transtur_web-service.AssemblyInfo.cs
 C:\transtur_web-service\transtur_web-service\obj\Debug\netcoreapp2.1\transtur_web-service.dll
 C:\transtur_web-service\transtur_web-service\obj\Debug\netcoreapp2.1\transtur_web-service.pdb
+E:\WebServer\transtur_web-service\transtur_web-service\bin\Debug\netcoreapp2.1\transtur_web-service.deps.json
+E:\WebServer\transtur_web-service\transtur_web-service\bin\Debug\netcoreapp2.1\transtur_web-service.runtimeconfig.json
+E:\WebServer\transtur_web-service\transtur_web-service\bin\Debug\netcoreapp2.1\transtur_web-service.runtimeconfig.dev.json
+E:\WebServer\transtur_web-service\transtur_web-service\bin\Debug\netcoreapp2.1\transtur_web-service.dll
+E:\WebServer\transtur_web-service\transtur_web-service\bin\Debug\netcoreapp2.1\transtur_web-service.pdb
+E:\WebServer\transtur_web-service\transtur_web-service\obj\Debug\netcoreapp2.1\transtur_web-service.csprojAssemblyReference.cache
+E:\WebServer\transtur_web-service\transtur_web-service\obj\Debug\netcoreapp2.1\transtur_web-service.csproj.CoreCompileInputs.cache
+E:\WebServer\transtur_web-service\transtur_web-service\obj\Debug\netcoreapp2.1\transtur_web-service.AssemblyInfoInputs.cache
+E:\WebServer\transtur_web-service\transtur_web-service\obj\Debug\netcoreapp2.1\transtur_web-service.AssemblyInfo.cs
+E:\WebServer\transtur_web-service\transtur_web-service\obj\Debug\netcoreapp2.1\transtur_web-service.dll
+E:\WebServer\transtur_web-service\transtur_web-service\obj\Debug\netcoreapp2.1\transtur_web-service.pdb
